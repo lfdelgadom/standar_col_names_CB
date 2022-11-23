@@ -1,0 +1,163 @@
+database_col_name,analysis_col_name,observation,scale
+availableGermplasmSeedlotUniquenames,availableGermplasmSeedlotUniquenames,,
+blockNumber,blockNumber,,
+branching angle in degrees|CO_334:0002082,obs_branch_angle,continuos,
+branching level counting|CO_334:0000079,obs_branch_number,discrete,0_9
+Cassava anthracnose disease severity|month 5|COMP:0000273,obs_CAD_5mon,discrete,1_5
+Cassava anthracnose disease severity|month 7|COMP:0000274,obs_CAD_7mon,discrete,1_5
+cassava anthractnose disease severity in 3-month|CO_334:0000218,obs_CAD_3mon,discrete,1_5
+cassava bacterial blight severity 3-month evaluation|CO_334:0000175,obs_CBB_3mon,discrete,1_5
+Cassava bacterial blight severity|month 5|COMP:0000271,obs_CBB_5mon,discrete,1_5
+Cassava bacterial blight severity|month 7|COMP:0000272  ,obs_CBB_7mon,discrete,1_5
+cassava mosaic disease severity 1-month evaluation|CO_334:0000191,obs_CMD_1mon,discrete,1_5
+cassava mosaic disease severity 3-month evaluation|CO_334:0000192,obs_CMD_3mon,discrete,1_5
+cassava mosaic disease severity 6-month evaluation|CO_334:0000194,obs_CMD_6mon,discrete,1_5
+cassava mosaic disease severity 9-month evaluation|CO_334:0000193,obs_CMD_9mon,discrete,1_5
+cassava mosaic disease severity|month 10|COMP:0000260,obs_CMD_10mon,discrete,1_5
+Cassava mosaic disease severity|month 2|COMP:0000262,obs_CMD_2mon,discrete,1_5
+Cassava mosaic disease severity|month 4|COMP:0000263,obs_CMD_4mon,discrete,1_5
+Cassava mosaic disease severity|month 5|COMP:0000264,obs_CMD_5mon,discrete,1_5
+Cassava mosaic disease severity|month 7|COMP:0000265,obs_CMD_7mon,discrete,1_5
+Cassava mosaic disease severity|month 8|COMP:0000266,obs_CMD_8mon,discrete,1_5
+cassava mosaic disease severity|week 6|COMP:0000261,obs_CMD_6week,discrete,1_5
+Change in weight after boiling computation percentage|month 10|boiling time 10 minutes|COMP:0000223,obs_WAB_10min_10mon,continuos,
+Change in weight after boiling computation percentage|month 10|boiling time 20 minutes|COMP:0000224,obs_WAB_20min_10mon,continuos,
+Change in weight after boiling computation percentage|month 10|boiling time 30 minutes|COMP:0000225,obs_WAB_30min_10mon,continuos,
+Change in weight after boiling computation percentage|month 10|boiling time 40 minutes|COMP:0000226,obs_WAB_40min_10mon,continuos,
+Change in weight after boiling computation percentage|month 10|boiling time 50 minutes|COMP:0000227,obs_WAB_50min_10mon,continuos,
+Change in weight after boiling computation percentage|month 10|boiling time 60 minutes|COMP:0000228,obs_WAB_60min_10mon,continuos,
+Change in weight after boiling computation percentage|month 11|boiling time 10 minutes|COMP:0000230,obs_WAB_10min_11mon,continuos,
+Change in weight after boiling computation percentage|month 11|boiling time 20 minutes|COMP:0000231,obs_WAB_20min_11mon,continuos,
+Change in weight after boiling computation percentage|month 11|boiling time 30 minutes|COMP:0000232,obs_WAB_30min_11mon,continuos,
+Change in weight after boiling computation percentage|month 8|boiling time 10 minutes|COMP:0000210,obs_WAB_10min_8mon,continuos,
+Change in weight after boiling computation percentage|month 8|boiling time 20 minutes|COMP:0000211,obs_WAB_20min_8mon,continuos,
+Change in weight after boiling computation percentage|month 8|boiling time 30 minutes|COMP:0000212,obs_WAB_30min_8mon,continuos,
+Change in weight after boiling computation percentage|month 8|boiling time 40 minutes|COMP:0000213,obs_WAB_40min_8mon,continuos,
+Change in weight after boiling computation percentage|month 8|boiling time 50 minutes|COMP:0000214,obs_WAB_50min_8mon,continuos,
+Change in weight after boiling computation percentage|month 8|boiling time 60 minutes|COMP:0000215,obs_WAB_60min_8mon,continuos,
+Change in weight after boiling computation percentage|month 9|boiled root|COMP:0000259,obs_WAB_boiled_9mon,continuos,
+Change in weight after boiling computation percentage|month 9|boiling time 10 minutes|COMP:0000216,obs_WAB_10min_9mon,continuos,
+Change in weight after boiling computation percentage|month 9|boiling time 20 minutes|COMP:0000217,obs_WAB_20min_9mon,continuos,
+Change in weight after boiling computation percentage|month 12|boiling time 20 minutes|COMP:0000287,obs_WAB_20min_12mon,continuos,
+Change in weight after boiling computation percentage|month 12|boiling time 30 minutes|COMP:0000288,obs_WAB_30min_12mon,continuos,
+colNumber,use_col_number,meta,
+dry matter content by specific gravity method|CO_334:0000160,obs_DM_gravity,continuos,
+dry matter content percentage|CO_334:0000092,obs_DM_oven,continuos,
+dry matter content percentage|month 10|mashed raw root|COMP:0000237,obs_DM_raw_10mon,continuos,
+dry matter content percentage|month 11|mashed raw root|COMP:0000238,obs_DM_raw_11mon,continuos,
+dry matter content percentage|month 8|mashed raw root|COMP:0000239,obs_DM_raw_8mon,continuos,
+dry matter content percentage|month 9|mashed raw root|COMP:0000240,obs_DM_raw_9mon,continuos,
+dry matter content by table-top NIRS in percentage|CO_334:0002057,obs_DM_nirs,continuos,
+ease of harvest assessment 1-3|CO_334:0000225,obs_easy_harvest1-3,discrete,1_3
+entryType,use_check_test,meta,
+fieldSize,fieldSize,,
+fieldTrialIsPlannedToBeGenotyped,fieldTrialIsPlannedToBeGenotyped,,
+fieldTrialIsPlannedToCross,fieldTrialIsPlannedToCross,,
+first apical branch height measurement in cm|CO_334:0000106,obs_height_1st_branch,continuos,
+flowering visual assessment 0-3|CO_334:0000233,obs_flowering0-3,discrete,0_3
+fresh root yield|CO_334:0000013,obs_yield_ha,continuos,
+fresh shoot weight measurement in kg per plot|CO_334:0000016,obs_shoot_weight_plot,continuos,
+fresh storage root weight per plot|CO_334:0000012,obs_root_weight_plot,continuos,
+germination count|CO_334:0000166,obs_germinated_seeds_family,continuos,
+germplasmDbId,germplasmDbId,,
+germplasmName,use_accession_name,meta,
+accession,use_accession_name,meta,
+germplasmSynonyms,use_accession_name_syn,meta,
+harvest index variable|CO_334:0000015,obs_harvest_index,continuos,
+"harvestDate,",use_harvest_date,meta,
+harvestDate,use_harvest_date,meta,
+hydrogen cyanide potential picrate method 1-9|CO_334:0000091,obs_HCN_picrate,discrete,1_9
+initial plant vigor assessment 1-5|CO_334:0000220,obs_vigor1-5,discrete,1_5
+locationDbId,locationDbId,,
+"locationDbId,",locationDbId,,
+locationName,use_location,meta,
+lodged plants estimation 1-3|CO_334:0000301,obs_lodging1-3,discrete,1_3
+lodged plants estimation 1-3|month 6|COMP:0000208,obs_lodging1-3_6mon,discrete,1_3
+marketable root number counting|CO_334:0000169,obs_root_number_commercial,continuos,
+marketable root weight measurement in kg|CO_334:0000131,obs_root_weight_commercial,continuos,
+notes,use_notes,meta,
+number of forks counting|CO_334:0000146,obs_branch_number_v2,continuos,
+number of planted stakes per plant counting|CO_334:0000300,obs_stake_plant,continuos,
+number of planted stakes per plot counting|CO_334:0000159,obs_planted_number_plot,continuos,
+number of stakes counting|CO_334:0000250,obs_stake_plant_v2,continuos,
+observationLevel,observationLevel,,
+observationUnitDbId,observationUnitDbId,,
+observationUnitName,use_plot_name,meta,
+plant architecture visual rating 1-5|CO_334:0000099,obs_plant_type,discrete,1_5
+plant height measurement in cm|CO_334:0000018,obs_height,continuos,
+plant height with leaf in cm|CO_334:0000123,obs_height_wt_leaf,continuos,
+plant stands harvested counting|CO_334:0000010,obs_harvest_number,continuos,
+plant yield|CO_334:0000230,obs_yield_1plant,continuos,
+plantedSeedlotBoxName,plantedSeedlotBoxName,,
+plantedSeedlotCurrentCount,plantedSeedlotCurrentCount,,
+plantedSeedlotCurrentWeightGram,plantedSeedlotCurrentWeightGram,,
+plantedSeedlotStockDbId,plantedSeedlotStockDbId,,
+plantedSeedlotStockUniquename,plantedSeedlotStockUniquename,,
+plantedSeedlotTransactionCount,plantedSeedlotTransactionCount,,
+plantedSeedlotTransactionDescription,plantedSeedlotTransactionDescription,,
+plantedSeedlotTransactionWeight,plantedSeedlotTransactionWeight,,
+plantingDate,use_plant_date,meta,
+plantNumber,plantNumber,,
+plotLength,use_plot_length,meta,
+plotNumber,use_plot_number,meta,
+plotWidth,use_plot_width,meta,
+programDbId,programID,,
+programDescription,programDescription,,
+programName,programName,,
+breeding_programName,programName,,
+replicate,use_rep_number,meta,
+root color visual rating 1-3|CO_334:0000221,obs_root_skin_color1-3,discrete,1_3
+root constriction visual rating 1-3|CO_334:0000109,obs_root_constriction1-3,discrete,1_3
+root evaluation scaled 1-5|CO_334:0000228,obs_root_type1-5,discrete,1_5
+root flesh color 25% center ring visual rating 1-8 rtfcol25c |CO_334:0002080,obs_flesh_color_25rtfcenter1-8,discrete,1_8
+root flesh color 25% center ring visual rating 1-8|CO_334:0002080,obs_flesh_color_25center1-8,discrete,1_8
+root flesh color 25% outer ring visual rating 1-8|CO_334:0002081,obs_flesh_color_25outer1-8,discrete,1_8
+root flesh color 50% inner ring visual rating 1-8 rtfcol50i |CO_334:0002079,obs_flesh_color_50rtfinner1-8,discrete,1_8
+root flesh color 50% inner ring visual rating 1-8|CO_334:0002079,obs_flesh_color_50inner1-8,discrete,1_8
+root flesh color visual rating 1-3|CO_334:0000222,obs_flesh_color_1-3,discrete,1_3
+root length evaluation scaled 1-3|CO_334:0000226,obs_root_length1-3,discrete,1_3
+root number per plot counting|CO_334:0000011,obs_root_number,continuos,
+root weight in air|CO_334:0000157,obs_root_weight_air,continuos,
+root weight in water|CO_334:0000158,obs_root_weight_water,continuos,
+rotted storage root counting|CO_334:0000084,obs_root_rot_number,continuos,
+rotten root percentage|CO_334:0000229,obs_root_rot_perc,continuos,
+rowNumber,use_row_number,meta,
+selected variety boolean 0&1|CO_334:0000232,obs_selected,discrete,0-1
+sprout count at one-month|CO_334:0000213,obs_germinated_number_1mon_plot,continuos,
+sprout count discrete counting|CO_334:0000138,obs_germinated_number_plot,continuos,
+stalk length evaluation|CO_334:0000227,obs_stalk_length,discrete,1_3
+storage root neck length visual rating 1-3|CO_334:0000223,obs_root_peduncle1-3,discrete,1_3
+storage root shape visual rating 1-6|CO_334:0000020,obs_root_shape1-6,discrete,1_6
+studyDbId,studyDbId,,
+studyDescription,use_trial_type,meta,
+studyDesign,studyDesign,,
+studyName,use_trial_name,meta,
+studyYear,use_year,meta,
+textural characteristic area under curve extrusion gmm|month 10|boiling time 18 minutes|COMP:0000241,obs_texture_area_18min_10mon,continuos,
+textural characteristic area under curve extrusion gmm|month 11|boiling time 18 minutes|COMP:0000242,obs_texture_area_18min_11mon,continuos,
+textural characteristic area under curve extrusion gmm|month 9|boiling time 18 minutes|COMP:0000243,obs_texture_area_18min_9mon,continuos,
+textural characteristic distance at max force extrusion mm|month 10|boiling time 18 minutes|COMP:0000244,obs_texture_distance_18min_10mon,continuos,
+textural characteristic distance at max force extrusion mm|month 11|boiling time 18 minutes|COMP:0000245,obs_texture_distance_18min_11mon,continuos,
+textural characteristic distance at max force extrusion mm|month 9|boiling time 18 minutes|COMP:0000246,obs_texture_distance_18min_9mon,continuos,
+textural characteristic end force extrusion g|month 10|boiling time 18 minutes|COMP:0000247,obs_texture_endforce_18min_10mon,continuos,
+textural characteristic end force extrusion g|month 11|boiling time 18 minutes|COMP:0000248,obs_texture_endforce_18min_11mon,continuos,
+textural characteristic end force extrusion g|month 9|boiling time 18 minutes|COMP:0000249,obs_texture_endforce_18min_9mon,continuos,
+textural characteristic gradient extrusion g/mm|month 10|boiling time 18 minutes|COMP:0000250,obs_texture_gradient_18min_10mon,continuos,
+textural characteristic gradient extrusion g/mm|month 11|boiling time 18 minutes|COMP:0000251,obs_texture_gradient_18min_11mon,continuos,
+textural characteristic gradient extrusion g/mm|month 9|boiling time 18 minutes|COMP:0000252,obs_texture_gradient_18min_9mon,continuos,
+textural characteristic linear distance extrusion mm|month 10|boiling time 18 minutes|COMP:0000253,obs_texture_linear_distance_18min_10mon,continuos,
+textural characteristic linear distance extrusion mm|month 11|boiling time 18 minutes|COMP:0000254,obs_texture_linear_distance_18min_11mon,continuos,
+textural characteristic linear distance extrusion mm|month 9|boiling time 18 minutes|COMP:0000255,obs_texture_linear_distance_18min_9mon,continuos,
+textural characteristic max force extrusion g|month 10|boiling time 18 minutes|COMP:0000256,obs_texture_maxforce_18min_10mon,continuos,
+textural characteristic max force extrusion g|month 11|boiling time 18 minutes|COMP:0000257,obs_texture_maxforce_18min_11mon,continuos,
+textural characteristic max force extrusion g|month 9|boiling time 18 minutes|COMP:0000258,obs_texture_maxforce_18min_9mon,continuos,
+thrips severity : visual 1-5|CO_334:0002084,obs_thrips1-5,discrete,1_5
+time of boiling estimation minute|month 10|boiled root|COMP:0000190,obs_cook_time_10mon,continuos,
+time of boiling estimation minute|month 11|boiled root|COMP:0000191,obs_cook_time_11mon,continuos,
+time of boiling estimation minute|month 8|boiled root|COMP:0000186,obs_cook_time_8mon,continuos,
+time of boiling estimation minute|month 9|boiled root|COMP:0000188,obs_cook_time_9mon,continuos,
+total carotenoid by chart 1-8|CO_334:0000161,obs_carotenoid1-8,discrete,1_8
+yield per year|CO_334:0000231,obs_yield_1year,continuos,
+plot,use_plot_name,meta,
+frog skin disease : visual 1-5|CO_334:0000093,obs_frogskin1-5,discrete,1_5
+thrips severity : visual 1-5|at harvesting|COMP:0000282,thrips1-5harvest,discrete,1_5
