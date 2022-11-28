@@ -47,6 +47,7 @@ dry matter content percentage|month 10|mashed raw root|COMP:0000237,obs_DM_raw_1
 dry matter content percentage|month 11|mashed raw root|COMP:0000238,obs_DM_raw_11mon,continuos,
 dry matter content percentage|month 8|mashed raw root|COMP:0000239,obs_DM_raw_8mon,continuos,
 dry matter content percentage|month 9|mashed raw root|COMP:0000240,obs_DM_raw_9mon,continuos,
+dry matter content percentage|month 12|mashed raw root|COMP:0000295,obs_DM_raw_12mon,,
 dry matter content by table-top NIRS in percentage|CO_334:0002057,obs_DM_nirs,continuos,
 ease of harvest assessment 1-3|CO_334:0000225,obs_easy_harvest1-3,discrete,1_3
 entryType,use_check_test,meta,
@@ -56,6 +57,7 @@ fieldTrialIsPlannedToCross,fieldTrialIsPlannedToCross,,
 first apical branch height measurement in cm|CO_334:0000106,obs_height_1st_branch,continuos,
 flowering visual assessment 0-3|CO_334:0000233,obs_flowering0-3,discrete,0_3
 fresh root yield|CO_334:0000013,obs_yield_ha,continuos,
+fresh root yield|month 12|COMP:0000317,obs_yield_ha_12mon,,
 fresh shoot weight measurement in kg per plot|CO_334:0000016,obs_shoot_weight_plot,continuos,
 fresh storage root weight per plot|CO_334:0000012,obs_root_weight_plot,continuos,
 germination count|CO_334:0000166,obs_germinated_seeds_family,continuos,
@@ -158,6 +160,7 @@ textural characteristic max force extrusion g|month 9|boiling time 18 minutes|CO
 thrips severity : visual 1-5|CO_334:0002084,obs_thrips1-5,discrete,1_5
 time of boiling estimation minute|month 10|boiled root|COMP:0000190,obs_cook_time_10mon,continuos,
 time of boiling estimation minute|month 11|boiled root|COMP:0000191,obs_cook_time_11mon,continuos,
+time of boiling estimation minute|month 12|boiled root|COMP:0000309,obs_cook_time_12mon,,
 time of boiling estimation minute|month 8|boiled root|COMP:0000186,obs_cook_time_8mon,continuos,
 time of boiling estimation minute|month 9|boiled root|COMP:0000188,obs_cook_time_9mon,continuos,
 total carotenoid by chart 1-8|CO_334:0000161,obs_carotenoid1-8,discrete,1_8
