@@ -111,6 +111,7 @@ programDbId,programID,,
 programDescription,programDescription,,
 programName,programName,,
 breeding_programName,programName,,
+Red spider mite severity|month 5|COMP:0000319,obs_redspider_5mon1-3 ,discrete,1_5
 replicate,use_rep_number,meta,
 root color visual rating 1-3|CO_334:0000221,obs_root_skin_color1-3,discrete,1_3
 root constriction visual rating 1-3|CO_334:0000109,obs_root_constriction1-3,discrete,1_3
