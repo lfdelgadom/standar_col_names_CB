@@ -2,131 +2,132 @@ location_CassavaBase ,,,,use_latitude,use_longitude,use_altitude,use_department,
 Abidjan,Abidjan,,,,,,,,,
 Llanos,Llanos,,,,,,,,,
 "Molineros. Atlantico, Colombia",Molineros, Atlantico, Colombia,,,25,Atlantico,Colombia,Subhumid lowland tropics,moli
-Motilonia,Motilonia (Codazzi),,,9.933333333,-73.2166666666667,,Cesar,Colombia,Subhumid lowland tropics,moti
-Palmar de Varela,CIAT,,,3.483333333,-76.3666666666667,965,Valle,Colombia,Mid-altitude torpics,ciat
-"S. de Quilichao. Cauca, Colombia",S. de Quilichao, de Quilichao, Cauca,3,-76.4833333333333,1061,Cauca,Colombia,Mid-altitude torpics,quil
+Motilonia,Motilonia (Codazzi),,,9.933333333,-73.21666667,,Cesar,Colombia,Subhumid lowland tropics,moti
+Palmar de Varela,CIAT,,,3.483333333,-76.36666667,965,Valle,Colombia,Mid-altitude torpics,ciat
+"S. de Quilichao. Cauca, Colombia",S. de Quilichao, de Quilichao, Cauca,3,-76.48333333,1061,Cauca,Colombia,Mid-altitude torpics,quil
 Tay Ninh,Tay Ninh,,,,,,,,,
 Unknown,Unknown,,,,,,,,,
 unknown2,unknown2,,,,,,,,,
 Francisco Pizarro,Francisco Pizarro,,,,,,,,,
-"Carranzo. Cordoba, Colombia",Carranzo (Chinu), Cordoba, Colombia,9.1,-75.3833333333333,95,Cordoba,Colombia,Subhumid lowland tropics,carr
-El Mira,El Mira (Tumaco),,,1.783333333,-78.7833333333333,9,Nariño,Colombia,Humid lowland tropics,mira
+"Carranzo. Cordoba, Colombia",Carranzo (Chinu), Cordoba, Colombia,9.1,-75.38333333,95,Cordoba,Colombia,Subhumid lowland tropics,carr
+El Mira,El Mira (Tumaco),,,1.783333333,-78.78333333,9,Nariño,Colombia,Humid lowland tropics,mira
 Bolivar,Bolivar,,,,,,,,,
 Costa,Costa,,,,,,,,,
 Campeche,Campeche (Baranoa),,,10.71666667,-74.9,,Atlantico,Colombia,Subhumid lowland tropics,camp
 "Pend. , Colombia",Pend, , Colombia,,,,,,,
 El Carmen de Bolivar,El Carmen,,,7.966666667,-74.1,834,Bolivar,Colombia,Subhumid lowland tropics,carm
 "Tamalameque. Cesar, Colombia",Tamalameque, Cesar, Colombia,85.21666667,-76.8,25,Cesar,Colombia,Subhumid lowland tropics,tama
-"Barranca De Upia. Casanare, Colombia",Barranca De Upia, Casanare, Colombia,43.83333333,-72.9666666666667,213,Casanare,Colombia,"Acid soil,lowland tropical savannas",upia
-"Aremasain. Guajira, Colombia",Aremasain, Guajira, Colombia,11.48333333,-72.6833333333333,31,Guajira,Colombia,Semiarid lowland tropics,arem
+"Barranca De Upia. Casanare, Colombia",Barranca De Upia, Casanare, Colombia,43.83333333,-72.96666667,213,Casanare,Colombia,"Acid soil,lowland tropical savannas",upia
+"Aremasain. Guajira, Colombia",Aremasain, Guajira, Colombia,11.48333333,-72.68333333,31,Guajira,Colombia,Semiarid lowland tropics,arem
 "Cienaga. Magdalena, Colombia",Cienaga, Magdalena, Colombia,11,-74.25,12,Magdalena,Colombia,Subhumid lowland tropics,cnag
 "Barranquilla. Atlantico, Colombia",Barranquilla, Atlantico, Colombia,11,-74.8,25,Atlantico,Colombia,Subhumid lowland tropics,barr
-"Rio Frio. Magdalena, Colombia",Rio Frio, Magdalena, Colombia,10.91666667,-74.1666666666667,22,Magdalena,Colombia,Subhumid lowland tropics,rfri
-Caracoli,Caracoli,,,10.85,-74.8333333333333,73,Atlantico,Colombia,Subhumid lowland tropics,cara
-"Caracoli. Atlantico, Colombia",Caracoli, Atlantico, Colombia,10.85,-74.8333333333333,73,Atlantico,Colombia,Subhumid lowland tropics,cara
+"Rio Frio. Magdalena, Colombia",Rio Frio, Magdalena, Colombia,10.91666667,-74.16666667,22,Magdalena,Colombia,Subhumid lowland tropics,rfri
+Caracoli,Caracoli,,,10.85,-74.83333333,73,Atlantico,Colombia,Subhumid lowland tropics,cara
+"Caracoli. Atlantico, Colombia",Caracoli, Atlantico, Colombia,10.85,-74.83333333,73,Atlantico,Colombia,Subhumid lowland tropics,cara
 "Malambo. Atlantico, Colombia",Malambo, Atlantico, Colombia,10.85,-74.75,4,Atlantico,Colombia,Subhumid lowland tropics,mala
 Malambo,Malambo,,,10.85,-74.75,4,Atlantico,Colombia,Subhumid lowland tropics,mala
-"Fonseca. Guajira, Colombia",Fonseca, Guajira, Colombia,10.81666667,-72.8166666666667,207,Guajira,Colombia,Subhumid lowland tropics,fons
+"Fonseca. Guajira, Colombia",Fonseca, Guajira, Colombia,10.81666667,-72.81666667,207,Guajira,Colombia,Subhumid lowland tropics,fons
 Pitalito,Pitalito,,,10.81666667,-74.85,88,Atlantico,Colombia,Subhumid lowland tropics,pita
 "Pitalito. Atlantico, Colombia",Pitalito, Atlantico, Colombia,10.81666667,-74.85,88,Atlantico,Colombia,Subhumid lowland tropics,pita
-Sabanagrande,Sabanagrande,,,10.8,-74.7666666666667,,Atlantico,Colombia,Subhumid lowland tropics,sgra
-"Baranoa. Atlantico, Colombia",Baranoa, Atlantico, Colombia,10.8,-74.9166666666667,124,Atlantico,Colombia,Subhumid lowland tropics,bara
+Sabanagrande,Sabanagrande,,,10.8,-74.76666667,,Atlantico,Colombia,Subhumid lowland tropics,sgra
+"Baranoa. Atlantico, Colombia",Baranoa, Atlantico, Colombia,10.8,-74.91666667,124,Atlantico,Colombia,Subhumid lowland tropics,bara
 Polonuevo,Polonuevo,,,10.76666667,-74.85,,Atlantico,Colombia,Subhumid lowland tropics,polo
 Sevilla,Sevilla,,,10.76666667,-74.15,31,Magdalena,Colombia,Subhumid lowland tropics,sevi
-Santo Tomas,Santo Tomas,,,10.75,-74.8166666666667,59,Atlantico,Colombia,Subhumid lowland tropics,stom
-"Santo Tomas. Atlantico, Colombia",Santo Tomas, Atlantico, Colombia,10.75,-74.8166666666667,59,Atlantico,Colombia,Subhumid lowland tropics,stom
-"Luruaco. Atlantico, Colombia",Luruaco, Atlantico, Colombia,10.66666667,-75.1666666666667,73,Atlantico,Colombia,Subhumid lowland tropics,luru
-Sabanalarga,Sabanalarga,,,10.61666667,-74.8166666666667,46,Atlantico,Colombia,Subhumid lowland tropics,saba
-"Sabanalarga. Atlantico, Colombia",Sabanalarga, Atlantico, Colombia,10.61666667,-74.8166666666667,46,Atlantico,Colombia,Subhumid lowland tropics,saba
-"Santa Cruz. Atlantico, Colombia",Santa Cruz, Atlantico, Colombia,10.56666667,-75.2166666666667,30,Atlantico,Colombia,Subhumid lowland tropics,scru
-"Repelon. Atlantico, Colombia",Repelon, Atlantico, Colombia,10.55,-75.1166666666667,143,Atlantico,Colombia,Subhumid lowland tropics,repe
-Repelon,Repelon,,,10.55,-75.1166666666667,143,Atlantico,Colombia,Subhumid lowland tropics,repe
-Media Luna,Media Luna,,,10.51666667,-74.5166666666667,20,Magdalena,Colombia,Subhumid lowland tropics,mlun
-"Media Luna. Magdalena, Colombia",Media Luna, Magdalena, Colombia,10.51666667,-74.5166666666667,20,Magdalena,Colombia,Subhumid lowland tropics,mlun
-Pivijay,Pivijay,,,10.41666667,-74.3166666666667,51,Magdalena,Colombia,Subhumid lowland tropics,pivi
-"Pivijay. Magdalena, Colombia",Pivijay, Magdalena, Colombia,10.41666667,-74.3166666666667,51,Magdalena,Colombia,Subhumid lowland tropics,pivi
-"Valledupar. Cesar, Colombia",Valledupar, Cesar, Colombia,10.41666667,-73.5666666666667,1222,Cesar,Colombia,Subhumid lowland tropics,vall
-"Caribia. Magdalena, Colombia",Caribia, Magdalena, Colombia,10.25,-74.1166666666667,20,Magdalena,Colombia,Subhumid lowland tropics,cbia
-Caribia,Caribia,,,10.25,-74.1166666666667,20,Magdalena,Colombia,Subhumid lowland tropics,cbia
-Agustin Codazzi,Agustin Codazzi,,,9.933333333,-73.2166666666667,,Cesar,Colombia,Subhumid lowland tropics,acod
+Santo Tomas,Santo Tomas,,,10.75,-74.81666667,59,Atlantico,Colombia,Subhumid lowland tropics,stom
+"Santo Tomas. Atlantico, Colombia",Santo Tomas, Atlantico, Colombia,10.75,-74.81666667,59,Atlantico,Colombia,Subhumid lowland tropics,stom
+"Luruaco. Atlantico, Colombia",Luruaco, Atlantico, Colombia,10.66666667,-75.16666667,73,Atlantico,Colombia,Subhumid lowland tropics,luru
+Sabanalarga,Sabanalarga,,,10.61666667,-74.81666667,46,Atlantico,Colombia,Subhumid lowland tropics,saba
+"Sabanalarga. Atlantico, Colombia",Sabanalarga, Atlantico, Colombia,10.61666667,-74.81666667,46,Atlantico,Colombia,Subhumid lowland tropics,saba
+"Santa Cruz. Atlantico, Colombia",Santa Cruz, Atlantico, Colombia,10.56666667,-75.21666667,30,Atlantico,Colombia,Subhumid lowland tropics,scru
+"Repelon. Atlantico, Colombia",Repelon, Atlantico, Colombia,10.55,-75.11666667,143,Atlantico,Colombia,Subhumid lowland tropics,repe
+Repelon,Repelon,,,10.55,-75.11666667,143,Atlantico,Colombia,Subhumid lowland tropics,repe
+Media Luna,Media Luna,,,10.51666667,-74.51666667,20,Magdalena,Colombia,Subhumid lowland tropics,mlun
+"Media Luna. Magdalena, Colombia",Media Luna, Magdalena, Colombia,10.51666667,-74.51666667,20,Magdalena,Colombia,Subhumid lowland tropics,mlun
+Pivijay,Pivijay,,,10.41666667,-74.31666667,51,Magdalena,Colombia,Subhumid lowland tropics,pivi
+"Pivijay. Magdalena, Colombia",Pivijay, Magdalena, Colombia,10.41666667,-74.31666667,51,Magdalena,Colombia,Subhumid lowland tropics,pivi
+"Valledupar. Cesar, Colombia",Valledupar, Cesar, Colombia,10.41666667,-73.56666667,1222,Cesar,Colombia,Subhumid lowland tropics,vall
+"Caribia. Magdalena, Colombia",Caribia, Magdalena, Colombia,10.25,-74.11666667,20,Magdalena,Colombia,Subhumid lowland tropics,cbia
+Caribia,Caribia,,,10.25,-74.11666667,20,Magdalena,Colombia,Subhumid lowland tropics,cbia
+Agustin Codazzi,Agustin Codazzi,,,9.933333333,-73.21666667,,Cesar,Colombia,Subhumid lowland tropics,acod
 "Laberinto. Sucre, Colombia",Laberinto, Sucre, Colombia,9.866666667,-75.5,88,Sucre,Colombia,Subhumid lowland tropics,labe
-Tolú,Tolú,,,9.5,-75.5166666666667,19,Sucre,Colombia,Subhumid lowland tropics,tolu
-Los Palmitos,Los Palmitos,,,9.366666667,-75.2666666666667,183,Sucre,Colombia,Subhumid lowland tropics,palm
+Tolú,Tolú,,,9.5,-75.51666667,19,Sucre,Colombia,Subhumid lowland tropics,tolu
+Los Palmitos,Los Palmitos,,,9.366666667,-75.26666667,183,Sucre,Colombia,Subhumid lowland tropics,palm
 Corozal,Corozal,,,9.316666667,-75.25,148,Sucre,Colombia,Subhumid lowland tropics,coro
 "Corozal. Sucre, Colombia",Corozal, Sucre, Colombia,9.316666667,-75.25,148,Sucre,Colombia,Subhumid lowland tropics,coro
 Momil,Momil,,,9.316666667,-75.65,17,Cordoba,Colombia,Subhumid lowland tropics,momi
 "Momil. Cordoba, Colombia",Momil, Cordoba, Colombia,9.316666667,-75.65,17,Cordoba,Colombia,Subhumid lowland tropics,momi
-"Betulia. Sucre, Colombia",Betulia, Sucre, Colombia,9.266666667,-75.2333333333333,135,Sucre,Colombia,Subhumid lowland tropics,betu
-"Albania. Sucre, Colombia",Albania, Sucre, Colombia,9.25,-75.2166666666667,127,Sucre,Colombia,Subhumid lowland tropics,alba
-Lorica,Lorica,,,9.166666667,-75.8166666666667,7,Cordoba,Colombia,Subhumid lowland tropics,lori
+"Betulia. Sucre, Colombia",Betulia, Sucre, Colombia,9.266666667,-75.23333333,135,Sucre,Colombia,Subhumid lowland tropics,betu
+"Albania. Sucre, Colombia",Albania, Sucre, Colombia,9.25,-75.21666667,127,Sucre,Colombia,Subhumid lowland tropics,alba
+Lorica,Lorica,,,9.166666667,-75.81666667,7,Cordoba,Colombia,Subhumid lowland tropics,lori
 Since,Since,,,9.166666667,-75,74,Sucre,Colombia,Subhumid lowland tropics,sinc
 Sampues,Sampues,,,9.166666667,-75.3,116,Sucre,Colombia,Subhumid lowland tropics,samp
-"Chinu. Cordoba, Colombia",Chinu, Cordoba, Colombia,9.066666667,-75.3166666666667,107,Cordoba,Colombia,Subhumid lowland tropics,chin
-"Montanita. Sucre, Colombia",Montanita, Sucre, Colombia,9.05,-75.2833333333333,72,Sucre,Colombia,Subhumid lowland tropics,mtta
+"Chinu. Cordoba, Colombia",Chinu, Cordoba, Colombia,9.066666667,-75.31666667,107,Cordoba,Colombia,Subhumid lowland tropics,chin
+"Montanita. Sucre, Colombia",Montanita, Sucre, Colombia,9.05,-75.28333333,72,Sucre,Colombia,Subhumid lowland tropics,mtta
 Cerete,Cerete,,,8.916666667,-76,101,Cordoba,Colombia,Subhumid lowland tropics,cere
 "Cerete. Cordoba, Colombia",Cerete, Cordoba, Colombia,8.916666667,-76,101,Cordoba,Colombia,Subhumid lowland tropics,cere
-"El Salado. Cordoba, Colombia",El Salado, Cordoba, Colombia,8.916666667,-75.5833333333333,42,Cordoba,Colombia,Subhumid lowland tropics,sala
-La Union,La Union,,,8.85,-75.2666666666667,49,Sucre,Colombia,Subhumid lowland tropics,unio
-"La Union. Sucre, Colombia",La Union, Sucre, Colombia,8.85,-75.2666666666667,49,Sucre,Colombia,Subhumid lowland tropics,unio
-"Sahagun. Cordoba, Colombia",Sahagun, Cordoba, Colombia,8.816666667,-75.4166666666667,73,Cordoba,Colombia,Subhumid lowland tropics,saha
-"Cienaga De Oro. Cordoba, Colombia",Cienaga De Oro, Cordoba, Colombia,8.816666667,-75.6666666666667,52,Cordoba,Colombia,Subhumid lowland tropics,cien
-Sahagun,Sahagun,,,8.816666667,-75.4166666666667,73,Cordoba,Colombia,Subhumid lowland tropics,saha
-Cienaga De Oro,Cienaga De Oro,,,8.816666667,-75.6666666666667,52,Cordoba,Colombia,Subhumid lowland tropics,cien
-"El Olivo. Cordoba, Colombia",El Olivo, Cordoba, Colombia,8.716666667,-75.4666666666667,146,Cordoba,Colombia,Subhumid lowland tropics,oliv
+"El Salado. Cordoba, Colombia",El Salado, Cordoba, Colombia,8.916666667,-75.58333333,42,Cordoba,Colombia,Subhumid lowland tropics,sala
+La Union,La Union,,,8.85,-75.26666667,49,Sucre,Colombia,Subhumid lowland tropics,unio
+"La Union. Sucre, Colombia",La Union, Sucre, Colombia,8.85,-75.26666667,49,Sucre,Colombia,Subhumid lowland tropics,unio
+"Sahagun. Cordoba, Colombia",Sahagun, Cordoba, Colombia,8.816666667,-75.41666667,73,Cordoba,Colombia,Subhumid lowland tropics,saha
+"Cienaga De Oro. Cordoba, Colombia",Cienaga De Oro, Cordoba, Colombia,8.816666667,-75.66666667,52,Cordoba,Colombia,Subhumid lowland tropics,cien
+Sahagun,Sahagun,,,8.816666667,-75.41666667,73,Cordoba,Colombia,Subhumid lowland tropics,saha
+Cienaga De Oro,Cienaga De Oro,,,8.816666667,-75.66666667,52,Cordoba,Colombia,Subhumid lowland tropics,cien
+"El Olivo. Cordoba, Colombia",El Olivo, Cordoba, Colombia,8.716666667,-75.46666667,146,Cordoba,Colombia,Subhumid lowland tropics,oliv
 Monteria,Monteria,,,8.666666667,-76,44,Cordoba,Colombia,Subhumid lowland tropics,mont
-"Necocli. Antioquia, Colombia",Necocli, Antioquia, Colombia,8.416666667,-76.7833333333333,22,Antioquia,Colombia,Subhumid lowland tropics,neco
-"Valencia. Cordoba, Colombia",Valencia, Cordoba, Colombia,8.3,-76.1666666666667,95,Cordoba,Colombia,Subhumid lowland tropics,vale
+"Necocli. Antioquia, Colombia",Necocli, Antioquia, Colombia,8.416666667,-76.78333333,22,Antioquia,Colombia,Subhumid lowland tropics,neco
+"Valencia. Cordoba, Colombia",Valencia, Cordoba, Colombia,8.3,-76.16666667,95,Cordoba,Colombia,Subhumid lowland tropics,vale
 "El Carmen. Bolivar, Colombia",El Carmen, Bolivar, Colombia,7.966666667,-74.1,834,Bolivar,Colombia,Subhumid lowland tropics,carm
 "Carepa. Antioquia, Colombia",Carepa, Antioquia, Colombia,7.75,-76.65,28,Antioquia,Colombia,Subhumid lowland tropics,care
 "Mutata. Antioquia, Colombia",Mutata, Antioquia, Colombia,7.316666667,-76.5,135,Antioquia,Colombia,Subhumid lowland tropics,mula
 "Barrancabermeja. Santander, Colombia",Barrancabermeja, Santander, Colombia,7.166666667,-73.75,75,Santander,Colombia,"Acid soil,lowland tropical savannas",berm
-"Yopal. Casanare, Colombia",Yopal, Casanare, Colombia,6.1,-70.6166666666667,114,Casanare,Colombia,"Acid soil,lowland tropical savannas",yopa
+"Yopal. Casanare, Colombia",Yopal, Casanare, Colombia,6.1,-70.61666667,114,Casanare,Colombia,"Acid soil,lowland tropical savannas",yopa
 "San Vicente. Santander, Colombia",San Vicente, Santander, Colombia,5.816666667,-73.45,2192,Santander,Colombia,Subhumid lowland tropics,svic
 "Aguazul. Casanare, Colombia",Aguazul, Casanare, Colombia,5.25,-72.5,449,Casanare,Colombia,"Acid soil,lowland tropical savannas",agua
-"Armero. Tolima, Colombia",Armero, Tolima, Colombia,5.066666667,-74.8166666666667,280,Tolima,Colombia,Mid-altitude torpics,armo
-"Tauramena. Casanare, Colombia",Tauramena, Casanare, Colombia,5.016666667,-72.7166666666667,390,Casanare,Colombia,"Acid soil,lowland tropical savannas",taur
-"Carimagua. Meta, Colombia",Carimagua, Meta, Colombia,4.566666667,-71.3166666666667,154,Meta,Colombia,"Acid soil,lowland tropical savannas",cari
+"Armero. Tolima, Colombia",Armero, Tolima, Colombia,5.066666667,-74.81666667,280,Tolima,Colombia,Mid-altitude torpics,armo
+"Tauramena. Casanare, Colombia",Tauramena, Casanare, Colombia,5.016666667,-72.71666667,390,Casanare,Colombia,"Acid soil,lowland tropical savannas",taur
+"Carimagua. Meta, Colombia",Carimagua, Meta, Colombia,4.566666667,-71.31666667,154,Meta,Colombia,"Acid soil,lowland tropical savannas",cari
 "Armenia. Quindio, Colombia",Armenia, Quindio, Colombia,4.5,-75.7,1270,Quindio,Colombia,Mid-altitude torpics,arme
 "Montenegro. Quindio, Colombia",Montenegro, Quindio, Colombia,4.5,-75.8,1224,Quindio,Colombia,Mid-altitude torpics,mtgr
-"Cabuyaro. Meta, Colombia",Cabuyaro, Meta, Colombia,4.283333333,-72.7833333333333,167,Meta,Colombia,"Acid soil,lowland tropical savannas",cabu
-"Cumaral. Meta, Colombia",Cumaral, Meta, Colombia,4.25,-73.3166666666667,300,Meta,Colombia,"Acid soil,lowland tropical savannas",cuma
-"El Overo. Valle, Colombia",El Overo, Valle, Colombia,4.233333333,-76.1166666666667,777,Valle,Colombia,Mid-altitude torpics,over
+"Cabuyaro. Meta, Colombia",Cabuyaro, Meta, Colombia,4.283333333,-72.78333333,167,Meta,Colombia,"Acid soil,lowland tropical savannas",cabu
+"Cumaral. Meta, Colombia",Cumaral, Meta, Colombia,4.25,-73.31666667,300,Meta,Colombia,"Acid soil,lowland tropical savannas",cuma
+"El Overo. Valle, Colombia",El Overo, Valle, Colombia,4.233333333,-76.11666667,777,Valle,Colombia,Mid-altitude torpics,over
 "Matazul. Meta, Colombia",Matazul, Meta, Colombia,4.166666667,-72.65,152,Meta,Colombia,"Acid soil,lowland tropical savannas",mata
-"Restrepo. Meta, Colombia",Restrepo, Meta, Colombia,4.166666667,-73.4166666666667,305,Meta,Colombia,"Acid soil,lowland tropical savannas",rest
-"El Espinal. Tolima, Colombia",El Espinal, Tolima, Colombia,4.15,-74.8833333333333,304,Tolima,Colombia,Mid-altitude torpics,espi
-"Apiay. Meta, Colombia",Apiay, Meta, Colombia,4.066666667,-73.5666666666667,433,Meta,Colombia,"Acid soil,lowland tropical savannas",apia
-La Libertad,La Libertad,,,4.066666667,-72.1666666666667,155,Meta,Colombia,"Acid soil,lowland tropical savannas",libe
-"Puerto Lopez. Meta, Colombia",Puerto Lopez, Meta, Colombia,4.066666667,-72.9666666666667,211,Meta,Colombia,"Acid soil,lowland tropical savannas",plop
-Puerto Lopez,Puerto Lopez,,,4.066666667,-72.9666666666667,211,Meta,Colombia,"Acid soil,lowland tropical savannas",plop
-"La Libertad. Meta, Colombia",La Libertad, Meta, Colombia,4.066666667,-72.1666666666667,155,Meta,Colombia,"Acid soil,lowland tropical savannas",libe
-"Darien. Valle, Colombia",Darien, Valle, Colombia,3.933333333,-76.4833333333333,1269,Valle,Colombia,High altitude tropics,dari
-"Acacias. Meta, Colombia",Acacias, Meta, Colombia,3.916666667,-73.8166666666667,766,Meta,Colombia,"Acid soil,lowland tropical savannas",acac
-"Buga. Valle, Colombia",Buga, Valle, Colombia,3.916666667,-76.0666666666667,2105,Valle,Colombia,Mid-altitude torpics,buga
+"Restrepo. Meta, Colombia",Restrepo, Meta, Colombia,4.166666667,-73.41666667,305,Meta,Colombia,"Acid soil,lowland tropical savannas",rest
+"El Espinal. Tolima, Colombia",El Espinal, Tolima, Colombia,4.15,-74.88333333,304,Tolima,Colombia,Mid-altitude torpics,espi
+"Apiay. Meta, Colombia",Apiay, Meta, Colombia,4.066666667,-73.56666667,433,Meta,Colombia,"Acid soil,lowland tropical savannas",apia
+La Libertad,La Libertad,,,4.066666667,-72.16666667,155,Meta,Colombia,"Acid soil,lowland tropical savannas",libe
+"Puerto Lopez. Meta, Colombia",Puerto Lopez, Meta, Colombia,4.066666667,-72.96666667,211,Meta,Colombia,"Acid soil,lowland tropical savannas",plop
+Puerto Lopez,Puerto Lopez,,,4.066666667,-72.96666667,211,Meta,Colombia,"Acid soil,lowland tropical savannas",plop
+"La Libertad. Meta, Colombia",La Libertad, Meta, Colombia,4.066666667,-72.16666667,155,Meta,Colombia,"Acid soil,lowland tropical savannas",libe
+"Darien. Valle, Colombia",Darien, Valle, Colombia,3.933333333,-76.48333333,1269,Valle,Colombia,High altitude tropics,dari
+"Acacias. Meta, Colombia",Acacias, Meta, Colombia,3.916666667,-73.81666667,766,Meta,Colombia,"Acid soil,lowland tropical savannas",acac
+"Buga. Valle, Colombia",Buga, Valle, Colombia,3.916666667,-76.06666667,2105,Valle,Colombia,Mid-altitude torpics,buga
 "San Martin. Meta, Colombia",San Martin, Meta, Colombia,3.7,-73.7,426,Meta,Colombia,"Acid soil,lowland tropical savannas",smar
-"Vijes. Valle, Colombia",Vijes, Valle, Colombia,3.683333333,-76.4333333333333,824,Valle,Colombia,Mid-altitude torpics,vije
-"Granada. Meta, Colombia",Granada, Meta, Colombia,3.666666667,-74.1666666666667,2032,Meta,Colombia,"Acid soil,lowland tropical savannas",gran
+"Vijes. Valle, Colombia",Vijes, Valle, Colombia,3.683333333,-76.43333333,824,Valle,Colombia,Mid-altitude torpics,vije
+"Granada. Meta, Colombia",Granada, Meta, Colombia,3.666666667,-74.16666667,2032,Meta,Colombia,"Acid soil,lowland tropical savannas",gran
 Buenaventura,Buenaventura,,,3.566666667,-77,7,Valle,Colombia,Humid lowland tropics,buen
 Corpoica Palmira,Corpoica Palmira,,,3.533333333,-76.3,,Valle,Colombia,Mid-altitude torpics,cpal
-"La Dolores. Valle, Colombia",La Dolores, Valle, Colombia,3.5,-76.4666666666667,703,Valle,Colombia,Mid-altitude torpics,dolo
-"Palmaseca. Valle, Colombia",Palmaseca, Valle, Colombia,3.5,-76.4333333333333,719,Valle,Colombia,Subhumid lowland tropics,psec
-"CIAT. Valle, Colombia",CIAT, Valle, Colombia,3.483333333,-76.3666666666667,965,Valle,Colombia,Mid-altitude torpics,ciat
-CIAT,CIAT,,,3.483333333,-76.3666666666667,965,Valle,Colombia,Mid-altitude torpics,ciat
-"Candelaria. Valle, Colombia",Candelaria, Valle, Colombia,3.316666667,-76.3166666666667,835,Valle,Colombia,Mid-altitude torpics,cand
-"Puerto Gaitan. Meta, Colombia",Puerto Gaitan, Meta, Colombia,3.216666667,-73.8666666666667,347,Meta,Colombia,"Acid soil,lowland tropical savannas",pgai
-"Jamundi. Valle, Colombia",Jamundi, Valle, Colombia,3.166666667,-76.5666666666667,1161,Valle,Colombia,Mid-altitude torpics,jamu
-"Caloto. Cauca, Colombia",Caloto, Cauca, Colombia,3.066666667,-76.3166666666667,1289,Cauca,Colombia,High altitude tropics,calo
-Buenos Aires,Buenos Aires,,,2.916666667,-76.6666666666667,1124,Cauca,Colombia,High altitude tropics,bair
+"La Dolores. Valle, Colombia",La Dolores, Valle, Colombia,3.5,-76.46666667,703,Valle,Colombia,Mid-altitude torpics,dolo
+"Palmaseca. Valle, Colombia",Palmaseca, Valle, Colombia,3.5,-76.43333333,719,Valle,Colombia,Subhumid lowland tropics,psec
+"CIAT. Valle, Colombia",CIAT, Valle, Colombia,3.483333333,-76.36666667,965,Valle,Colombia,Mid-altitude torpics,ciat
+CIAT,CIAT,,,3.483333333,-76.36666667,965,Valle,Colombia,Mid-altitude torpics,ciat
+"Candelaria. Valle, Colombia",Candelaria, Valle, Colombia,3.316666667,-76.31666667,835,Valle,Colombia,Mid-altitude torpics,cand
+"Puerto Gaitan. Meta, Colombia",Puerto Gaitan, Meta, Colombia,3.216666667,-73.86666667,347,Meta,Colombia,"Acid soil,lowland tropical savannas",pgai
+"Jamundi. Valle, Colombia",Jamundi, Valle, Colombia,3.166666667,-76.56666667,1161,Valle,Colombia,Mid-altitude torpics,jamu
+"Caloto. Cauca, Colombia",Caloto, Cauca, Colombia,3.066666667,-76.31666667,1289,Cauca,Colombia,High altitude tropics,calo
+Buenos Aires,Buenos Aires,,,2.916666667,-76.66666667,1124,Cauca,Colombia,High altitude tropics,bair
 "Mondomo. Cauca, Colombia",Mondomo, Cauca, Colombia,2.883333333,-76.55,1389,Cauca,Colombia,High altitude tropics,mond
-"Morales. Cauca, Colombia",Morales, Cauca, Colombia,2.8,-76.6666666666667,1432,Cauca,Colombia,High altitude tropics,mora
+"Morales. Cauca, Colombia",Morales, Cauca, Colombia,2.8,-76.66666667,1432,Cauca,Colombia,High altitude tropics,mora
 "Pescador. Cauca, Colombia",Pescador, Cauca, Colombia,2.766666667,-76.55,1570,Cauca,Colombia,High altitude tropics,pesc
-"Cajibio. Cauca, Colombia",Cajibio, Cauca, Colombia,2.666666667,-76.6666666666667,1562,Cauca,Colombia,High altitude tropics,caji
-"Popayan. Cauca, Colombia",Popayan, Cauca, Colombia,2.5,-76.5666666666667,1797,Cauca,Colombia,High altitude tropics,popa
-"Quilcace. Cauca, Colombia",Quilcace, Cauca, Colombia,2.316666667,-76.8166666666667,900,Cauca,Colombia,Mid-altitude torpics,cace
-"Patia. Cauca, Colombia",Patia, Cauca, Colombia,2.166666667,-77.0666666666667,869,Cauca,Colombia,Subhumid lowland tropics,pati
-"Florencia. Caqueta, Colombia",Florencia, Caqueta, Colombia,1.75,-75.5666666666667,614,Caqueta,Colombia,Humid lowland tropics,flor
-"Doncello. Caqueta, Colombia",Doncello, Caqueta, Colombia,1.666666667,-75.2666666666667,304,Caqueta,Colombia,Humid lowland tropics,qcac
-"Puerto Caicedo. Putumayo, Colombia",Puerto Caicedo, Putumayo, Colombia,0.683333333,-76.5833333333333,484,Putumayo,Colombia,Humid lowland tropics,pcai
-"Orito. Putumayo, Colombia",Orito, Putumayo, Colombia,0.683333333,-76.8666666666667,683,Putumayo,Colombia,Humid lowland tropics,orit
-"Puerto Asis. Putumayo, Colombia",Puerto Asis, Putumayo, Colombia,0.5,-76.4833333333333,256,Putumayo,Colombia,Humid lowland tropics,pasi
-"La Hormiga. Putumayo, Colombia",La Hormiga, Putumayo, Colombia,0.366666667,-76.8833333333333,530,Putumayo,Colombia,Humid lowland tropics,horm
-"Villa Garzon. Putumayo, Colombia",Villa Garzon, Putumayo, Colombia,0.183333333,-76.6166666666667,423,Putumayo,Colombia,Humid lowland tropics,garz
+"Cajibio. Cauca, Colombia",Cajibio, Cauca, Colombia,2.666666667,-76.66666667,1562,Cauca,Colombia,High altitude tropics,caji
+"Popayan. Cauca, Colombia",Popayan, Cauca, Colombia,2.5,-76.56666667,1797,Cauca,Colombia,High altitude tropics,popa
+"Quilcace. Cauca, Colombia",Quilcace, Cauca, Colombia,2.316666667,-76.81666667,900,Cauca,Colombia,Mid-altitude torpics,cace
+"Patia. Cauca, Colombia",Patia, Cauca, Colombia,2.166666667,-77.06666667,869,Cauca,Colombia,Subhumid lowland tropics,pati
+"Florencia. Caqueta, Colombia",Florencia, Caqueta, Colombia,1.75,-75.56666667,614,Caqueta,Colombia,Humid lowland tropics,flor
+"Doncello. Caqueta, Colombia",Doncello, Caqueta, Colombia,1.666666667,-75.26666667,304,Caqueta,Colombia,Humid lowland tropics,qcac
+"Puerto Caicedo. Putumayo, Colombia",Puerto Caicedo, Putumayo, Colombia,0.683333333,-76.58333333,484,Putumayo,Colombia,Humid lowland tropics,pcai
+"Orito. Putumayo, Colombia",Orito, Putumayo, Colombia,0.683333333,-76.86666667,683,Putumayo,Colombia,Humid lowland tropics,orit
+"Puerto Asis. Putumayo, Colombia",Puerto Asis, Putumayo, Colombia,0.5,-76.48333333,256,Putumayo,Colombia,Humid lowland tropics,pasi
+"La Hormiga. Putumayo, Colombia",La Hormiga, Putumayo, Colombia,0.366666667,-76.88333333,530,Putumayo,Colombia,Humid lowland tropics,horm
+"Villa Garzon. Putumayo, Colombia",Villa Garzon, Putumayo, Colombia,0.183333333,-76.61666667,423,Putumayo,Colombia,Humid lowland tropics,garz
+Ovejas,Sucre,,,9.5,-75.16666667,195,Sucre,Colombia,Subhumid lowland tropics,ovej
