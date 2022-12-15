@@ -69,10 +69,10 @@ harvest index variable|CO_334:0000015,obs_harvest_index,continuos,
 "harvestDate,",use_harvest_date,meta,
 harvestDate,use_harvest_date,meta,
 hydrogen cyanide potential picrate method 1-9|CO_334:0000091,obs_HCN_picrate,discrete,1_9
-HCNLinamarase|10months_(Pendiente),obs_HCN_linamarase_10mon,continuos,
-HCNLinamarase|12months_(Pendiente),obs_HCN_linamarase_12mon,continuos,
-HCNLinamarase|11months_(Pendiente),obs_HCN_linamarase_11mon,continuos,
-HCNLinamarase|8months_(Pendiente),obs_HCN_linamarase_8mon,continuos,
+hydrogen cyanide ug/g wet basis|month 10|COMP:0000322,obs_HCN_linamarase_10mon,continuos,
+hydrogen cyanide ug/g wet basis|month 12|COMP:0000324,obs_HCN_linamarase_12mon,continuos,
+hydrogen cyanide ug/g wet basis|month 11|COMP:0000323,obs_HCN_linamarase_11mon,continuos,
+hydrogen cyanide ug/g wet basis|month 8|COMP:0000325,obs_HCN_linamarase_8mon,continuos,
 initial plant vigor assessment 1-5|CO_334:0000220,obs_vigor1-5,discrete,1_5
 locationDbId,locationDbId,,
 "locationDbId,",locationDbId,,
@@ -165,19 +165,23 @@ time of boiling estimation minute|month 12|boiled root|COMP:0000309,obs_cook_tim
 time of boiling estimation minute|month 8|boiled root|COMP:0000186,obs_cook_time_8mon,continuos,
 time of boiling estimation minute|month 9|boiled root|COMP:0000188,obs_cook_time_9mon,continuos,
 total carotenoid by chart 1-8|CO_334:0000161,obs_carotenoid1-8,discrete,1_8
-beta-CarotNIRS|10months,obs_betacarotenoid_nirs_10mon,continuos,
-CarTotNIRS|10months,obs_carotenoidtotal_nirs_10mon,continuos,
-beta-CarotNIRS|11months,obs_betacarotenoid_nirs_11mon,continuos,
-CarTotNIRS|11months,obs_carotenoidtotal_nirs_11mon,continuos,
-beta-CarotHPLC|11months,obs_betacarotenoid_hplc_11mon,continuos,
-CarTotHPLC|11months,obs_carotenoidtotal_hplc_11mon,continuos,
-beta-CarotNIRS|8months,obs_betacarotenoid_nirs_8mon,continuos,
-CarTotNIRS|8months,obs_carotenoidtotal_nirs_8mon,continuos,
-beta-CarotHPLC|8months,obs_betacarotenoid_hplc_8mon,continuos,
-CarTotHPLC|8months,obs_carotenoidtotal_hplc_8mon,continuos,
-beta-CarotNIRS|12months,obs_betacarotenoid_nirs_12mon,continuos,
-CarTotNIRS|12months,obs_carotenoidtotal_nirs_12mon,continuos,
+beta carotene content ug/g NIRS 400-2500 nm|month 10|COMP:0000326,obs_betacarotenoid_nirs_10mon,continuos,
+Total carotenes ug/g NIRS 400-2500 nm|month 10|COMP:0000330,obs_carotenoidtotal_nirs_10mon,continuos,
+beta carotene content ug/g NIRS 400-2500 nm|month 11|COMP:0000327,obs_betacarotenoid_nirs_11mon,continuos,
+Total carotenes ug/g NIRS 400-2500 nm|month 11|COMP:0000331,obs_carotenoidtotal_nirs_11mon,continuos,
+beta carotene content ug/g|month 11|COMP:0000339,obs_betacarotenoid_hplc_11mon,continuos,
+Total carotenes HPLC ug/g|month 11|COMP:0000335,obs_carotenoidtotal_hplc_11mon,continuos,
+beta carotene content ug/g NIRS 400-2500 nm|month 8|COMP:0000329,obs_betacarotenoid_nirs_8mon,continuos,
+Total carotenes ug/g NIRS 400-2500 nm|month 8|COMP:0000333,obs_carotenoidtotal_nirs_8mon,continuos,
+beta carotene content ug/g|month 8|COMP:0000341,obs_betacarotenoid_hplc_8mon,continuos,
+Total carotenes HPLC ug/g|month 8|COMP:0000337,obs_carotenoidtotal_hplc_8mon,continuos,
+beta carotene content ug/g NIRS 400-2500 nm|month 12|COMP:0000328,obs_betacarotenoid_nirs_12mon,continuos,
+Total carotenes ug/g NIRS 400-2500 nm|month 12|COMP:0000332,obs_carotenoidtotal_nirs_12mon,continuos,
 yield per year|CO_334:0000231,obs_yield_1year,continuos,
 plot,use_plot_name,meta,
 frog skin disease : visual 1-5|CO_334:0000093,obs_frogskin1-5,discrete,1_5
 thrips severity : visual 1-5|at harvesting|COMP:0000282,thrips1-5harvest,discrete,1_5
+'post-harvest physiological deterioration variable 0-10 month 10'|day 5|COMP:0000311,obs_PPD_day5_10mon,discrete,0_10
+'post-harvest physiological deterioration variable 0-10 month 10'|day 7|COMP:0000313,obs_PPD_day7_10mon,discrete,0_10
+post-harvest physiological deterioration variable 0-10 scale measured 11 months after planting.|day 5|COMP:0000315,obs_PPD_day5_11mon,discrete,0_10
+post-harvest physiological deterioration variable 0-10 scale measured 8 months after planting.|day 5|COMP:0000312,obs_PPD_day5_8mon,discrete,0_10
