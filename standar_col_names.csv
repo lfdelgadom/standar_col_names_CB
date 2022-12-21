@@ -185,3 +185,6 @@ thrips severity : visual 1-5|at harvesting|COMP:0000282,thrips1-5harvest,discret
 'post-harvest physiological deterioration variable 0-10 month 10'|day 7|COMP:0000313,obs_PPD_day7_10mon,discrete,0_10
 post-harvest physiological deterioration variable 0-10 scale measured 11 months after planting.|day 5|COMP:0000315,obs_PPD_day5_11mon,discrete,0_10
 post-harvest physiological deterioration variable 0-10 scale measured 8 months after planting.|day 5|COMP:0000312,obs_PPD_day5_8mon,discrete,0_10
+red spider mite severity : visual 1-5|month 7 |COMP:0000283,obs_mites_7mon,discrete,1_5
+plant architecture visual rating 1-5|month 3|COMP:0000342,obs_plant_type_3mon,discrete,1_5
+red spider mite severity : visual  1-5 |month 3 |  CO_334:0000044,obs_mites_3mon,discrete,1_5
