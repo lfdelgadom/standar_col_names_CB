@@ -55,7 +55,7 @@ fieldSize,fieldSize,,
 fieldTrialIsPlannedToBeGenotyped,fieldTrialIsPlannedToBeGenotyped,,
 fieldTrialIsPlannedToCross,fieldTrialIsPlannedToCross,,
 first apical branch height measurement in cm|CO_334:0000106,obs_height_1st_branch,continuos,
-flowering visual assessment 0-3|CO_334:0000233,obs_flowering0-3,discrete,0_3
+flowering ability visual assessment 0-3|CO_334:0000233,obs_flowering0-3,discrete,0_3
 fresh root yield|CO_334:0000013,obs_yield_ha,continuos,
 fresh root yield|month 12|COMP:0000317,obs_yield_ha_12mon,,
 fresh shoot weight measurement in kg per plot|CO_334:0000016,obs_shoot_weight_plot,continuos,
@@ -123,7 +123,7 @@ root flesh color 50% inner ring visual rating 1-8 rtfcol50i |CO_334:0002079,obs_
 root flesh color 50% inner ring visual rating 1-8|CO_334:0002079,obs_flesh_color_50inner1-8,discrete,1_8
 root flesh color visual rating 1-3|CO_334:0000222,obs_flesh_color_1-3,discrete,1_3
 root length evaluation scaled 1-3|CO_334:0000226,obs_root_length1-3,discrete,1_3
-root number per plot counting|CO_334:0000011,obs_root_number,continuos,
+root number counting|CO_334:0000011,obs_root_number,continuos,
 root weight in air|CO_334:0000157,obs_root_weight_air,continuos,
 root weight in water|CO_334:0000158,obs_root_weight_water,continuos,
 rotted storage root counting|CO_334:0000084,obs_root_rot_number,continuos,
