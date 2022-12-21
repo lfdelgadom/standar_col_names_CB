@@ -188,3 +188,4 @@ post-harvest physiological deterioration variable 0-10 scale measured 8 months a
 red spider mite severity : visual 1-5|month 7 |COMP:0000283,obs_mites_7mon,discrete,1_5
 plant architecture visual rating 1-5|month 3|COMP:0000342,obs_plant_type_3mon,discrete,1_5
 red spider mite severity : visual  1-5 |month 3 |  CO_334:0000044,obs_mites_3mon,discrete,1_5
+post-harvest physiological deterioration variable 0-10 scale measured 12 months after planting.|day 7|COMP:0000314,obs_PPD_day7_12mon,discrete,0_10
