@@ -8,7 +8,7 @@ Cassava anthracnose disease severity|month 7|COMP:0000274,obs_CAD_7mon,discrete,
 cassava anthractnose disease severity in 3-month|CO_334:0000218,obs_CAD_3mon,discrete,1_5
 cassava bacterial blight severity 3-month evaluation|CO_334:0000175,obs_CBB_3mon,discrete,1_5
 Cassava bacterial blight severity|month 5|COMP:0000271,obs_CBB_5mon,discrete,1_5
-Cassava bacterial blight severity|month 7|COMP:0000272  ,obs_CBB_7mon,discrete,1_5
+Cassava bacterial blight severity|month 7|COMP:0000272,obs_CBB_7mon,discrete,1_5
 cassava mosaic disease severity 1-month evaluation|CO_334:0000191,obs_CMD_1mon,discrete,1_5
 cassava mosaic disease severity 3-month evaluation|CO_334:0000192,obs_CMD_3mon,discrete,1_5
 cassava mosaic disease severity 6-month evaluation|CO_334:0000194,obs_CMD_6mon,discrete,1_5
@@ -20,6 +20,9 @@ Cassava mosaic disease severity|month 5|COMP:0000264,obs_CMD_5mon,discrete,1_5
 Cassava mosaic disease severity|month 7|COMP:0000265,obs_CMD_7mon,discrete,1_5
 Cassava mosaic disease severity|month 8|COMP:0000266,obs_CMD_8mon,discrete,1_5
 cassava mosaic disease severity|week 6|COMP:0000261,obs_CMD_6week,discrete,1_5
+Change in weight after boiling computation percentage|boiling time 20 minutes|after harvest|COMP:0000289,obs_WAB_20min_ns_v2,,
+Change in weight after boiling|boiling time 20 minutes|after harvest|COMP:0000290,obs_WAB_20min_ns,continuos,
+Change in weight after boiling computation percentage|minute 30|after harvest|COMP:0000281,obs_WAB_30min,continuos,
 Change in weight after boiling computation percentage|month 10|boiling time 10 minutes|COMP:0000223,obs_WAB_10min_10mon,continuos,
 Change in weight after boiling computation percentage|month 10|boiling time 20 minutes|COMP:0000224,obs_WAB_20min_10mon,continuos,
 Change in weight after boiling computation percentage|month 10|boiling time 30 minutes|COMP:0000225,obs_WAB_30min_10mon,continuos,
@@ -38,17 +41,21 @@ Change in weight after boiling computation percentage|month 8|boiling time 60 mi
 Change in weight after boiling computation percentage|month 9|boiled root|COMP:0000259,obs_WAB_boiled_9mon,continuos,
 Change in weight after boiling computation percentage|month 9|boiling time 10 minutes|COMP:0000216,obs_WAB_10min_9mon,continuos,
 Change in weight after boiling computation percentage|month 9|boiling time 20 minutes|COMP:0000217,obs_WAB_20min_9mon,continuos,
+Change in weight after boiling computation percentage|month 9|boiling time 30 minutes|COMP:0000218,obs_WAB_30min_9mon,,
 Change in weight after boiling computation percentage|month 12|boiling time 20 minutes|COMP:0000287,obs_WAB_20min_12mon,continuos,
 Change in weight after boiling computation percentage|month 12|boiling time 30 minutes|COMP:0000288,obs_WAB_30min_12mon,continuos,
 colNumber,use_col_number,meta,
 dry matter content by specific gravity method|CO_334:0000160,obs_DM_gravity,continuos,
-dry matter content percentage|CO_334:0000092,obs_DM_oven,continuos,
+dry matter content percentage|CO_334:0000092,obs_DM_raw,continuos,
 dry matter content percentage|month 10|mashed raw root|COMP:0000237,obs_DM_raw_10mon,continuos,
 dry matter content percentage|month 11|mashed raw root|COMP:0000238,obs_DM_raw_11mon,continuos,
 dry matter content percentage|month 8|mashed raw root|COMP:0000239,obs_DM_raw_8mon,continuos,
 dry matter content percentage|month 9|mashed raw root|COMP:0000240,obs_DM_raw_9mon,continuos,
 dry matter content percentage|month 12|mashed raw root|COMP:0000295,obs_DM_raw_12mon,,
 dry matter content by table-top NIRS in percentage|CO_334:0002057,obs_DM_nirs,continuos,
+dry matter content percentage|month 10|boiling time 30 minutes|COMP:0000284,obs_DM_raw_10mon_30min,continuos,
+dry matter content percentage|month 11|boiling time 30 minutes|COMP:0000285,obs_DM_raw_11mon_30min,,
+dry matter content percentage|month 9|boiling time 30 minutes|COMP:0000286,obs_DM_raw_9mon_30min,,
 ease of harvest assessment 1-3|CO_334:0000225,obs_easy_harvest1-3,discrete,1_3
 entryType,use_check_test,meta,
 fieldSize,fieldSize,,
@@ -123,7 +130,7 @@ root flesh color 50% inner ring visual rating 1-8 rtfcol50i |CO_334:0002079,obs_
 root flesh color 50% inner ring visual rating 1-8|CO_334:0002079,obs_flesh_color_50inner1-8,discrete,1_8
 root flesh color visual rating 1-3|CO_334:0000222,obs_flesh_color_1-3,discrete,1_3
 root length evaluation scaled 1-3|CO_334:0000226,obs_root_length1-3,discrete,1_3
-root number counting|CO_334:0000011,obs_root_number,continuos,
+root number per plot counting|CO_334:0000011,obs_root_number,continuos,
 root weight in air|CO_334:0000157,obs_root_weight_air,continuos,
 root weight in water|CO_334:0000158,obs_root_weight_water,continuos,
 rotted storage root counting|CO_334:0000084,obs_root_rot_number,continuos,
@@ -185,7 +192,8 @@ thrips severity : visual 1-5|at harvesting|COMP:0000282,thrips1-5harvest,discret
 'post-harvest physiological deterioration variable 0-10 month 10'|day 7|COMP:0000313,obs_PPD_day7_10mon,discrete,0_10
 post-harvest physiological deterioration variable 0-10 scale measured 11 months after planting.|day 5|COMP:0000315,obs_PPD_day5_11mon,discrete,0_10
 post-harvest physiological deterioration variable 0-10 scale measured 8 months after planting.|day 5|COMP:0000312,obs_PPD_day5_8mon,discrete,0_10
-red spider mite severity : visual 1-5|month 7 |COMP:0000283,obs_mites_7mon,discrete,1_5
+red spider mite severity : visual 1-5|month 7|COMP:0000283,obs_mites_7mon,discrete,1_5
 plant architecture visual rating 1-5|month 3|COMP:0000342,obs_plant_type_3mon,discrete,1_5
-red spider mite severity : visual  1-5 |month 3 |  CO_334:0000044,obs_mites_3mon,discrete,1_5
+red spider mite severity : visual 1-5|CO_334:0000044,obs_mites_3mon,discrete,1_5
 post-harvest physiological deterioration variable 0-10 scale measured 12 months after planting.|day 7|COMP:0000314,obs_PPD_day7_12mon,discrete,0_10
+post-harvest physiological deterioration variable 0-10 scale measured 12 months after planting.|CO_334:0000077,obs_PPD_12mon,,
