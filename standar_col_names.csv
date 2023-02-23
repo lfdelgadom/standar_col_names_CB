@@ -141,6 +141,7 @@ selected variety boolean 0&1|CO_334:0000232,obs_selected,discrete,0-1
 sprout count at one-month|CO_334:0000213,obs_germinated_number_1mon_plot,continuos,
 sprout count discrete counting|CO_334:0000138,obs_germinated_number_plot,continuos,
 stalk length evaluation|CO_334:0000227,obs_stalk_length,discrete,1_3
+starch content percentage|CO_334:0000071,obs_starch_content,continuos,
 storage root neck length visual rating 1-3|CO_334:0000223,obs_root_peduncle1-3,discrete,1_3
 storage root shape visual rating 1-6|CO_334:0000020,obs_root_shape1-6,discrete,1_6
 studyDbId,studyDbId,,
