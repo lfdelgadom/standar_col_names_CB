@@ -174,7 +174,9 @@ time of boiling estimation minute|month 12|boiled root|COMP:0000309,obs_cook_tim
 time of boiling estimation minute|month 8|boiled root|COMP:0000186,obs_cook_time_8mon,continuos,
 time of boiling estimation minute|month 9|boiled root|COMP:0000188,obs_cook_time_9mon,continuos,
 total carotenoid by chart 1-8|CO_334:0000161,obs_carotenoid1-8,discrete,1_8
+beta carotene content ug/g NIRS 400-2500 nm|CO_334:0001053,obs_betacarotenoid_nirs,,
 beta carotene content ug/g NIRS 400-2500 nm|month 10|COMP:0000326,obs_betacarotenoid_nirs_10mon,continuos,
+Total carotenes ug/g NIRS 400-2500 nm|CO_334:0001051,obs_carotenoidtotal,,
 Total carotenes ug/g NIRS 400-2500 nm|month 10|COMP:0000330,obs_carotenoidtotal_nirs_10mon,continuos,
 beta carotene content ug/g NIRS 400-2500 nm|month 11|COMP:0000327,obs_betacarotenoid_nirs_11mon,continuos,
 Total carotenes ug/g NIRS 400-2500 nm|month 11|COMP:0000331,obs_carotenoidtotal_nirs_11mon,continuos,
