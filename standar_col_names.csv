@@ -87,6 +87,7 @@ locationDbId,locationDbId,,
 locationName,use_location,meta,
 lodged plants estimation 1-3|CO_334:0000301,obs_lodging1-3,discrete,1_3
 lodged plants estimation 1-3|month 6|COMP:0000208,obs_lodging1-3_6mon,discrete,1_3
+non marketable root number counting|CO_334:0000168,obs_root_number_non_commercial,,
 marketable root number counting|CO_334:0000169,obs_root_number_commercial,continuos,
 marketable root weight measurement in kg|CO_334:0000131,obs_root_weight_commercial,continuos,
 notes,use_notes,meta,
