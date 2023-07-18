@@ -21,6 +21,8 @@ Cassava mosaic disease severity|month 5|COMP:0000264,obs_CMD_5mon,discrete,1_5
 Cassava mosaic disease severity|month 7|COMP:0000265,obs_CMD_7mon,discrete,1_5
 Cassava mosaic disease severity|month 8|COMP:0000266,obs_CMD_8mon,discrete,1_5
 cassava mosaic disease severity|week 6|COMP:0000261,obs_CMD_6week,discrete,1_5
+Cassava mosaic disease severity|at harvesting|COMP:0000294,obs_CMD_harvest,,
+cassava mosaic disease severity 12-month evaluation|CO_334:0000199,obs_CMD_12mon,,
 Change in weight after boiling computation percentage|boiling time 20 minutes|after harvest|COMP:0000289,obs_WAB_20min_ns_v2,,
 Change in weight after boiling|boiling time 20 minutes|after harvest|COMP:0000290,obs_WAB_20min_ns,continuos,
 Change in weight after boiling computation percentage|minute 30|after harvest|COMP:0000281,obs_WAB_30min,continuos,
