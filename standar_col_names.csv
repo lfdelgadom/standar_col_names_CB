@@ -228,4 +228,4 @@ bemisia tabaci nymphs yellow : counting|month 2|COMP:0000347,obs_wf_nymph_2mon,d
 bemisia tabaci nymphs yellow : counting|month 4|COMP:0000348,obs_wf_nymph_4mon,discrete,
 bemisia tabaci nymphs yellow : counting|month 5|COMP:0000349,obs_wf_nymph_5mon,discrete,
 cassava mealy bug severity by visual rating 1-5|month 5|COMP:0000364,obs_mealy_bug_5mon,discrete,
-cassava mealy bug severity by visual rating 1-5|month 6|COMP:0000168,obs_mealy_bug_5mon,discrete,
+cassava mealy bug severity by visual rating 1-5|month 6|COMP:0000168,obs_mealy_bug_6mon,discrete,
