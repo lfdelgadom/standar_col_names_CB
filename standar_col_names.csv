@@ -84,6 +84,7 @@ hydrogen cyanide ug/g wet basis|month 12|COMP:0000324,obs_HCN_linamarase_12mon,c
 hydrogen cyanide ug/g wet basis|month 11|COMP:0000323,obs_HCN_linamarase_11mon,continuos,
 hydrogen cyanide ug/g wet basis|month 8|COMP:0000325,obs_HCN_linamarase_8mon,continuos,
 initial plant vigor assessment 1-5|CO_334:0000220,obs_vigor1-5,discrete,1_5
+initial plant vigor assessment 1-5|month 1|COMP:0000370,obs_vigor1-5_1mon,,
 locationDbId,locationDbId,,
 "locationDbId,",locationDbId,,
 locationName,use_location,meta,
