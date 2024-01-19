@@ -89,6 +89,7 @@ locationDbId,locationDbId,,
 "locationDbId,",locationDbId,,
 locationName,use_location,meta,
 lodged plants estimation 1-3|CO_334:0000301,obs_lodging1-3,discrete,1_3
+lodged plants estimation 1-3|month 4|COMP:0000369,obs_lodging1-3_4mon,discrete,1_3
 lodged plants estimation 1-3|month 6|COMP:0000208,obs_lodging1-3_6mon,discrete,1_3
 non marketable root number counting|CO_334:0000168,obs_root_number_non_commercial,,
 marketable root number counting|CO_334:0000169,obs_root_number_commercial,continuos,
@@ -102,6 +103,7 @@ observationLevel,observationLevel,,
 observationUnitDbId,observationUnitDbId,,
 observationUnitName,use_plot_name,meta,
 plant architecture visual rating 1-5|CO_334:0000099,obs_plant_type,discrete,1_5
+plant architecture visual rating 1-5|month 4|COMP:0000137,obs_plant_type_4mon,discrete,1_5
 plant height measurement in cm|CO_334:0000018,obs_height,continuos,
 plant height with leaf in cm|CO_334:0000123,obs_height_wt_leaf,continuos,
 plant stands harvested counting|CO_334:0000010,obs_harvest_number,continuos,
