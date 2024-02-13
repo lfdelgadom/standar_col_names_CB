@@ -103,6 +103,7 @@ observationLevel,observationLevel,,
 observationUnitDbId,observationUnitDbId,,
 observationUnitName,use_plot_name,meta,
 plant architecture visual rating 1-5|CO_334:0000099,obs_plant_type,discrete,1_5
+plant architecture visual rating 1-5|month 6|COMP:0000139,obs_plant_type_6mon,discrete,1_5
 plant architecture visual rating 1-5|month 4|COMP:0000137,obs_plant_type_4mon,discrete,1_5
 plant height measurement in cm|CO_334:0000018,obs_height,continuos,
 plant height with leaf in cm|CO_334:0000123,obs_height_wt_leaf,continuos,
