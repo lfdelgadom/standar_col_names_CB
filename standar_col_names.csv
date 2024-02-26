@@ -1,6 +1,8 @@
 database_col_name,analysis_col_name,observation,scale
 availableGermplasmSeedlotUniquenames,availableGermplasmSeedlotUniquenames,,
 blockNumber,blockNumber,,
+Aleurotrachelus socialis nymphs: counting|CO_334:0001069,obs_nymphs_counting,,
+Aleurotrachelus socialis nymphs: density %|CO_334:0001071,obs_damaged_leaf_area,,
 branching angle in degrees|CO_334:0002082,obs_branch_angle,continuos,
 branching level counting|CO_334:0000079,obs_branch_number,discrete,0_9
 branching level counting|month 9|COMP:0000344,obs_branch_number_9mon,discrete,0_9
