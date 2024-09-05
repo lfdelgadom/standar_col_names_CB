@@ -25,6 +25,9 @@ Cassava mosaic disease severity|month 8|COMP:0000266,obs_CMD_8mon,discrete,1_5
 cassava mosaic disease severity|week 6|COMP:0000261,obs_CMD_6week,discrete,1_5
 Cassava mosaic disease severity|at harvesting|COMP:0000294,obs_CMD_harvest,,
 cassava mosaic disease severity 12-month evaluation|CO_334:0000199,obs_CMD_12mon,,
+Cassava mosaic disease incidence|month 3|COMP:0000374,obs_CMD_incide_6mon,,
+Cassava mosaic disease incidence|month 6|COMP:0000375,obs_CMD_incide_3mon,,
+Cassava mosaic disease incidence|month 9|COMP:0000376,obs_CMD_incide_9mon,,
 Change in weight after boiling computation percentage|boiling time 20 minutes|after harvest|COMP:0000289,obs_WAB_20min_ns_v2,,
 Change in weight after boiling|boiling time 20 minutes|after harvest|COMP:0000290,obs_WAB_20min_ns,continuos,
 Change in weight after boiling computation percentage|minute 30|after harvest|COMP:0000281,obs_WAB_30min,continuos,
@@ -151,6 +154,7 @@ rowNumber,use_row_number,meta,
 selected variety boolean 0&1|CO_334:0000232,obs_selected,discrete,0-1
 sprout count at one-month|CO_334:0000213,obs_germinated_number_1mon_plot,continuos,
 sprout count discrete counting|CO_334:0000138,obs_germinated_number_plot,continuos,
+sprouting proportion|CO_334:0000008,obs_germinated_prop,,
 stalk length evaluation|CO_334:0000227,obs_stalk_length,discrete,1_3
 starch content percentage|CO_334:0000071,obs_starch_content,continuos,
 storage root neck length visual rating 1-3|CO_334:0000223,obs_root_peduncle1-3,discrete,1_3
